@@ -1,3 +1,4 @@
+business_division       = "hr"
 env                     = "dev"
 resource_group_name     = "rg"
 resource_group_location = "eastus"
