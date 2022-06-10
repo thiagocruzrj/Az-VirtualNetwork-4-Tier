@@ -22,7 +22,10 @@ variable "resource_group_location" {
   default     = "eastus2"
 }
 
-#Vnet Variables
+/*
+>> Vnet Variables <<
+*/
+
 variable "vnet_name" {
   description = "Virtual Network name"
   type        = string
